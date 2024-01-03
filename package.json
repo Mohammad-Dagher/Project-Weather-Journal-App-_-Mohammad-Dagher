@@ -1,0 +1,20 @@
+{
+  "name": "package_project-weather-journal",
+  "version": "1.0.0",
+  "description": "1. This project was created to develop my skills in javascript, html, css, and focused on javascript in a saturated way to cover all concepts related to this course and to develop the possibility of using it effectively to make the site more lively, more interactive with the user, and more exciting.\r 2. And all Udacity guidelines were used to obtain the required performance.\r 3. This page is compatible with the ability to display it on many devices, such as laptops and phones, in a more responsive manner.\r 4. This project creates an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mohammad Dagher",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+
+
+
+}
